@@ -1,5 +1,9 @@
 <p align="left">
   <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&theme=dark" alt="Contributions" />
+
+  <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&theme=transparent" alt="Contributions" />
+
+  ![GitHub stats](https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&theme=transparent)
 </p>
 
 <!--
