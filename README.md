@@ -1,21 +1,19 @@
-[![Pablos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataSigh1)](https://github.com/DataSigh1/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats-ramiros-projects-1d96dc24.vercel.app/api?username=DataSigh1&show_icons=true&theme=dark" alt="Contributions" />
+  <img src="https://github-readme-stats-ramiros-projects-1d96dc24.vercel.app/api/top-langs/?username=DataSigh1&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<!--
+github-readme-stats-ramiros-projects-1d96dc24.vercel.app
 
 <p align="left">
   <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api?username=DataSigh1&show_icons=true&theme=dark" alt="Contributions" />
   <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api/top-langs/?username=DataSigh1&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
-<!--
-**DataSigh1/DataSigh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api?username=bluchv&show_icons=true&theme=dark" alt="Contributions" />
+  <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api/top-langs/?username=bluchv&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
