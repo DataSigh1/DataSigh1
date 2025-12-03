@@ -1,4 +1,4 @@
-<p align="left">
+<!-- <p align="left">
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues&custom_title=Github%20Stats"/>
 </p>
 
@@ -15,9 +15,9 @@
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-</details>
+</details> -->
 
-<!-- 
+
 <table>
   <tr>
     <td valign="top">
@@ -40,7 +40,7 @@
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-</details> -->
+</details>
 
 
 <!-- <div style="background-color:#00ff00"></div>
