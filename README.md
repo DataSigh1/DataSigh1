@@ -13,10 +13,10 @@
 
 -------------------
 <details> 
-  <summary><h2>my favourite gifs vvv</h2></summary>
+  <summary><h2>my favourite gifs ⬇️</h2></summary>
+  <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-  <img src="nailong_dwerk.gif" width="159"/>
 </details>
 
 
