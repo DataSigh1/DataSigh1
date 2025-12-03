@@ -12,7 +12,7 @@
 
 -------------------
 <details> 
-  <summary><h2 style="background-color:#43c584">my favourite gifs</h2></summary>
+  <summary><h1 style="background-color:#43c584">my favourite gifs</h1></summary>
   <!-- <h1 style="background-color:#43c584">Heading</h1> -->
 
   <!-- <summary style="background-color:#43c584"><b>my favourite gifs</b></summary> -->
