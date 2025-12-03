@@ -3,6 +3,12 @@
 </p>
 
 ## Contact
+<!-- vertical SVG separator -->
+<svg xmlns="http://www.w3.org/2000/svg"
+      width="2" height="28"
+      style="margin: 0 6px; vertical-align: middle;">
+  <rect width="2" height="28" fill="#3c3c3c"/>
+</svg>
 
 <p align="left">
   <a href="https://www.github.com/DataSigh1">
@@ -13,8 +19,9 @@
   <svg xmlns="http://www.w3.org/2000/svg"
        width="2" height="28"
        style="margin: 0 6px; vertical-align: middle;">
-    <rect width="2" height="28" fill="#3c3c3c" />
+    <rect width="2" height="28" fill="#3c3c3c"/>
   </svg>
+
   <a href="https://www.tiktok.com/@datasigh_">
     <img alt="TikTok profile"
          src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=505050">
