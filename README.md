@@ -24,7 +24,7 @@
       <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues&custom_title=Github%20Stats"/>
     </td>
     <td valign="top">
-      <h4>Contact</h4>
+      <h4><b>Contact</b></h4>
       <a href="https://www.github.com/DataSigh1"><img src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&labelColor=505050"></a>
       <a href="https://www.tiktok.com/@datasigh_"><img src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=505050"></a>
       <a href="https://x.com/datasigh_"><img src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&labelColor=505050"></a>
