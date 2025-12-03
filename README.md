@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api?username=DataSigh1&show_icons=true&theme=dark" alt="Contributions" />
+  <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api/top-langs/?username=DataSigh1&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 <!--
 **DataSigh1/DataSigh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
