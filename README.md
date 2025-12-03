@@ -12,10 +12,10 @@
 
 -------------------
 <details> 
-  <!-- <summary><h2>my favourite gifs</h2></summary> -->
+  <summary><h2 style="background-color:#43c584">my favourite gifs</h2></summary>
   <!-- <h1 style="background-color:#43c584">Heading</h1> -->
 
-  <summary style="background-color:#43c584"><b>my favourite gifs</b></summary>
+  <!-- <summary style="background-color:#43c584"><b>my favourite gifs</b></summary> -->
 
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
