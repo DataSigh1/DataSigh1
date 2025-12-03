@@ -3,20 +3,23 @@
 </p>
 
 ## Contact
-<a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>
+<a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
 
-<a href="https://www.tiktok.com/@datasigh_"><img alt="TikTok" src="https://img.shields.io/badge/-TikTok-181717?style=social&logo=tiktok"/></a>
+<a href="https://www.tiktok.com/@datasigh_"><img alt="TikTok" src="https://img.shields.io/badge/-TikTok-181717?style=for-the-badge&logo=tiktok"/></a>
 
-<a href="https://x.com/datasigh_"><img alt="X(Twitter)" src="https://img.shields.io/badge/-X%20(Twitter)-0A0A0A?style=social&logo=x"/></a>
+<a href="https://x.com/datasigh_"><img alt="X(Twitter)" src="https://img.shields.io/badge/-X%20(Twitter)-0A0A0A?style=for-the-badge&logo=x"/></a>
 
-<a href="https://roblox.com/users/19574106/profile"><img alt="Roblox" src="https://img.shields.io/badge/-Roblox-000000?style=social&logo=roblox"/></a>
+<a href="https://roblox.com/users/19574106/profile"><img alt="Roblox" src="https://img.shields.io/badge/-Roblox-000000?style=for-the-badge&logo=roblox"/></a>
 
 <!-- <a href="https://devforum.roblox.com/u/datasigh/summary"><img alt="Devforum" src="https://img.shields.io/badge/-Devforum-000000?style=social&logo=robloxstudio"/></a> -->
 
 <!-- https://img.shields.io/badge/devforum-181717?style=for-the-badge&logo=roblox&labelColor=505050 -->
 
 <img alt="Devforum" src="https://img.shields.io/badge/devforum-181717?style=for-the-badge&logo=robloxstudio&labelColor=505050&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"/>
-
+<!-- 
+e5e5e5
+505050
+181717 -->
 -------------------
 <details> 
   <summary><h2>my favourite gifs</h2></summary>
