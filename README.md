@@ -1,9 +1,6 @@
-<!-- <p align="left">
+<p align="left">
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues&custom_title=Github%20Stats"/>
-</p>
-
--------------------
-## Contact
+</p>## Contact
 <a href="https://www.github.com/DataSigh1"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&labelColor=505050&link=https%3A%2F%2Fwww.github.com%2FDataSigh1"></a>
 <a href="https://www.tiktok.com/@datasigh_"><img alt="TikTok profile" src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=505050&link=https%3A%2F%2Fwww.tiktok.com%2F%40datasigh_"></a>
 <a href="https://x.com/datasigh_"><img alt="X (Twitter) profile" src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&labelColor=505050&link=https%3A%2F%2Fx.com%2Fdatasigh_"></a>
@@ -15,9 +12,9 @@
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-</details> -->
+</details>
 
-
+<!-- 
 <table>
   <tr>
     <td valign="top">
@@ -40,7 +37,7 @@
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-</details>
+</details> -->
 
 
 <!-- <div style="background-color:#00ff00"></div>
