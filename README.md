@@ -19,6 +19,67 @@
   <img src="peach_dancing.gif"/>
 </details>
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Rainbow Header</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #050505;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    h1 {
+      font-size: 4rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+
+      /* rainbow gradient */
+      background: linear-gradient(
+        90deg,
+        red,
+        orange,
+        yellow,
+        lime,
+        cyan,
+        blue,
+        violet,
+        red
+      );
+      background-size: 400% 100%;
+
+      /* make gradient show inside the text */
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+
+      /* animation */
+      animation: rainbow-slide 6s linear infinite;
+    }
+
+    @keyframes rainbow-slide {
+      0% {
+        background-position: 0% 50%;
+      }
+      100% {
+        background-position: 100% 50%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Rainbow Header</h1>
+</body>
+</html>
+
 <!-- ANOTHER VERSION OF THE CONTACT THING: -->
 <!-- ## Contact
 <a href="https://www.github.com/DataSigh1"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&labelColor=505050&link=https%3A%2F%2Fwww.github.com%2FDataSigh1"></a>
