@@ -16,7 +16,7 @@
   <summary><h2>my favourite gifs vvv</h2></summary>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-  <img src="nailong_dwerk.gif"/>
+  <img src="nailong_dwerk.gif" width="159"/>
 </details>
 
 
