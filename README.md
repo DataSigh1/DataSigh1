@@ -35,13 +35,11 @@
       background: #050505;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
-
     h1 {
       font-size: 4rem;
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.1em;
-
       /* rainbow gradient */
       background: linear-gradient(
         90deg,
@@ -55,16 +53,13 @@
         red
       );
       background-size: 400% 100%;
-
       /* make gradient show inside the text */
       -webkit-background-clip: text;
       background-clip: text;
       color: transparent;
-
       /* animation */
       animation: rainbow-slide 6s linear infinite;
     }
-
     @keyframes rainbow-slide {
       0% {
         background-position: 0% 50%;
