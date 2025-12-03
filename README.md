@@ -7,7 +7,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
       width="2" height="28"
       style="margin: 0 6px; vertical-align: middle;">
-  <rect width="2" height="28" fill="#3c3c3c"/>
 </svg>
 
 <p align="left">
