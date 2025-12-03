@@ -1,54 +1,28 @@
-<head>
-  <meta charset="UTF-8" />
-  <title>Rainbow Header</title>
-  <style>
-    body {
-      margin: 0;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: #050505;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
-    h1 {
-      font-size: 4rem;
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
-      /* rainbow gradient */
-      background: linear-gradient(
-        90deg,
-        red,
-        orange,
-        yellow,
-        lime,
-        cyan,
-        blue,
-        violet,
-        red
-      );
-      background-size: 400% 100%;
-      /* make gradient show inside the text */
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-      /* animation */
-      animation: rainbow-slide 6s linear infinite;
-    }
-    @keyframes rainbow-slide {
-      0% {
-        background-position: 0% 50%;
-      }
-      100% {
-        background-position: 100% 50%;
-      }
-    }
-  </style>
-</head>
-<body>
-  <h1>Rainbow Header</h1>
-</body>
+<p align="left">
+	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
+</p>
+
+## Contact
+<a href="https://www.github.com/DataSigh1"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2b2b2b&link=https%3A%2F%2Fwww.tiktok.com%2F%40datasigh_"></a>
+<a href="https://www.tiktok.com/@datasigh_"><img alt="TikTok profile" src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=000000&link=https%3A%2F%2Fwww.tiktok.com%2F%40datasigh_"></a>
+<a href="https://x.com/datasigh_"><img alt="X (Twitter) profile" src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000&link=https%3A%2F%2Fx.com%2Fdatasigh_"></a>
+<a href="https://www.roblox.com/users/19574106/profile"><img alt="Roblox profile" src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&logoColor=fefefe&labelColor=335fff&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"></a>
+<a href="https://devforum.roblox.com/u/datasigh/summary"><img alt="DevForum profile" src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&logoColor=fefefe&labelColor=121215&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"></a>
+
+
+-------------------
+<details> 
+  <!-- <summary><h2>my favourite gifs</h2></summary> -->
+    <summary><b><font color="#43c584">my favourite gifs</font></b></summary>
+  <img src="nailong_dwerk.gif" width="159"/>
+  <img src="toad_panic.gif"/>
+  <img src="peach_dancing.gif"/>
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo/rainbow-header.svg">
+</p>
+
 
 <!-- ANOTHER VERSION OF THE CONTACT THING: -->
 <!-- ## Contact
