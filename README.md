@@ -18,7 +18,7 @@
 </details> -->
 
 
-<table>
+<table border="0" style="border-collapse: collapse;>
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues&custom_title=Github%20Stats"/>
