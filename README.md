@@ -6,6 +6,7 @@
 <img src="toad-panic.gif" width="250"/>
 <!-- <img src="toad-panic.gif" width="128"/> -->
 <img src="toad-panic.gif" data-aspect-ratio="1" data-width="50%"/>
+<img src="toad-panic.gif" data-aspect-ratio="1" data-width="200%"/>
 
 <!--
 website:
