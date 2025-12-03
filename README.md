@@ -2,15 +2,13 @@
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
 </p>
 
+-------------------
 ## Contact
 <a href="https://www.github.com/DataSigh1"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2b2b2b&link=https%3A%2F%2Fwww.tiktok.com%2F%40datasigh_"></a>
 <a href="https://www.tiktok.com/@datasigh_"><img alt="TikTok profile" src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=000000&link=https%3A%2F%2Fwww.tiktok.com%2F%40datasigh_"></a>
 <a href="https://x.com/datasigh_"><img alt="X (Twitter) profile" src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000&link=https%3A%2F%2Fx.com%2Fdatasigh_"></a>
 <a href="https://www.roblox.com/users/19574106/profile"><img alt="Roblox profile" src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&logoColor=fefefe&labelColor=335fff&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"></a>
 <a href="https://devforum.roblox.com/u/datasigh/summary"><img alt="DevForum profile" src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&logoColor=fefefe&labelColor=121215&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"></a>
-
-
--------------------
 <details> 
   <summary><h4 style="background-color:#43c584">my favourite gifs</h4></summary>
   <img src="nailong_dwerk.gif" width="159"/>
