@@ -12,7 +12,7 @@
 
 -------------------
 <details> 
-  <summary><h4 style="background-color:#43c584">my favourite gifs</h4></summary>
+  <summary><h5 style="background-color:#43c584">my favourite gifs</h5></summary>
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
