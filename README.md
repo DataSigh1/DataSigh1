@@ -4,7 +4,8 @@
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=codeSTACKr&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
 </p>
 
-[DataSigh's GitHub stats](github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues)
+<!-- [DataSigh's GitHub stats](github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues) -->
+[![DataSigh's GitHub stats](github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1)]
 
 <!--
 website:
