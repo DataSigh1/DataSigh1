@@ -13,15 +13,18 @@
 -------------------
 <details> 
   <!-- <summary><h2>my favourite gifs</h2></summary> -->
-    <summary><b><font color="#43c584">my favourite gifs</font></b></summary>
+  <!-- <h1 style="background-color:#43c584">Heading</h1> -->
+
+  <summary style="background-color:#43c584"><b>my favourite gifs</b></summary>
+
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo/rainbow-header.svg">
-</p>
+<!-- <div style="background-color:#00ff00"></div>
+  <h1 style="color:white">Heading</h1>
+</div> -->
 
 
 <!-- ANOTHER VERSION OF THE CONTACT THING: -->
