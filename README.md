@@ -1,17 +1,24 @@
-<img src="toad-panic.gif"/>
 <p align="left">
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
 	<!-- <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=codeSTACKr&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/> -->
 </p>
 
 ## Contact
-<a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>&nbsp;
 <a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>
+<a href="https://www.tiktok.com/@datasigh_"><img alt="TikTok" src="https://img.shields.io/badge/-TikTok-181717?style=social&logo=tiktok"/></a>
+<a href="https://x.com/datasigh_"><img alt="X(Twitter)" src="https://img.shields.io/badge/-X%20(Twitter)-0A0A0A?style=social&logo=x"/></a>
+<a href="https://roblox.com/users/19574106/profile"><img alt="Roblox" src="https://img.shields.io/badge/-Roblox-000000?style=social&logo=roblox"/></a>
+<a href="https://devforum.roblox.com/u/datasigh/summary"><img alt="Devforum" src="https://img.shields.io/badge/-Devforum-000000?style=social&logo=robloxstudio"/></a>
 
-<!-- <a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>&nbsp;
 
-<a href="https://www.dev.to/dmnchzl"><img alt="DevCommunity" src="https://img.shields.io/badge/-DevCommunity-0A0A0A?style=social&logo=devdotto"/></a>&nbsp;
-<a href="https://www.medium.com/@dmnchzl"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium"/></a>&nbsp; -->
+-------------------
+<details> 
+  <summary><h2>my favourite gifs vvv</h2></summary>
+  <img src="toad_panic.gif"/>
+  <img src="peach_dancing.gif"/>
+  <img src="nailong_dwerk.gif"/>
+</details>
+
 
 <!--
 website:
