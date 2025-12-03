@@ -3,8 +3,10 @@
   <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&theme=transparent"/>
 
   <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true"/>
-  <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long"/>
-  <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&show=prs_merged_percentage,prs_merged"/>
+	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long"/>
+	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars"/>
+
+
 
   
 
@@ -15,12 +17,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+	srcset="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&theme=dark"
+	media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	srcset="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true" />
 </picture>
