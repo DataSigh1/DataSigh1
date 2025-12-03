@@ -13,7 +13,7 @@
 -------------------
 <details> 
   <!-- <summary><h2>my favourite gifs</h2></summary> -->
-    <summary>my favourite gifs</summary>
+    <summary><b>my favourite gifs</b></summary>
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
