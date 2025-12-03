@@ -1,14 +1,57 @@
 <p align="left">
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
 </p>
-<span style="font-size: 500px;">|</span>
 
 ## Contact
-<a href="https://www.github.com/DataSigh1"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&labelColor=505050&link=https%3A%2F%2Fwww.github.com%2FDataSigh1"></a> |
-<a href="https://www.tiktok.com/@datasigh_"><img alt="TikTok profile" src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=505050&link=https%3A%2F%2Fwww.tiktok.com%2F%40datasigh_"></a> |
-<a href="https://x.com/datasigh_"><img alt="X (Twitter) profile" src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&labelColor=505050&link=https%3A%2F%2Fx.com%2Fdatasigh_"></a> |
-<a href="https://www.roblox.com/users/19574106/profile"><img alt="Roblox profile" src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&labelColor=505050&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F19574106%2Fprofile"></a> |
-<a href="https://devforum.roblox.com/u/datasigh/summary"><img alt="DevForum profile" src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&labelColor=505050&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"></a>
+
+<div align="left" style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+">
+  <style>
+    .contact-links {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      gap: 10px;
+    }
+    .contact-links a {
+      display: flex;
+      align-items: center;
+    }
+    .contact-links a:not(:first-child)::before {
+      content: '|';
+      margin-right: 10px;
+      font-size: 20px;
+      line-height: 1;
+      position: relative;
+      top: -2px;  /* optional: raise bar slightly to align with badges */
+    }
+  </style>
+
+  <div class="contact-links">
+    <a href="https://www.github.com/DataSigh1">
+      <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&labelColor=505050">
+    </a>
+
+    <a href="https://www.tiktok.com/@datasigh_">
+      <img alt="TikTok profile" src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=505050">
+    </a>
+
+    <a href="https://x.com/datasigh_">
+      <img alt="X profile" src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&labelColor=505050">
+    </a>
+
+    <a href="https://www.roblox.com/users/19574106/profile">
+      <img alt="Roblox profile" src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&labelColor=505050">
+    </a>
+
+    <a href="https://devforum.roblox.com/u/datasigh/summary">
+      <img alt="DevForum profile" src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&labelColor=505050">
+    </a>
+  </div>
+</div>
 
 -------------------
 <details> 
