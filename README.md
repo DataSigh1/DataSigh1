@@ -4,7 +4,7 @@
 
 ## Contact
 <!-- vertical SVG separator -->
-<svg xmlns="http://www.w3.org/2000/svg"style="margin: 0 6px; vertical-align: middle;"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" style="margin: 0 6px; vertical-align: middle;"></svg>
 
 <p align="left">
   <a href="https://www.github.com/DataSigh1">
