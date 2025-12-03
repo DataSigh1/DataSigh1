@@ -1,3 +1,5 @@
+[![Pablos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataSigh1)](https://github.com/DataSigh1/github-readme-stats)
+
 <p align="left">
   <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api?username=DataSigh1&show_icons=true&theme=dark" alt="Contributions" />
   <img src="https://github-readme-stats-git-master-okwfyts-projects.vercel.app/api/top-langs/?username=DataSigh1&layout=compact&theme=dark" alt="Top Langs" />
