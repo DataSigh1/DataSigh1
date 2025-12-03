@@ -1,10 +1,10 @@
+<img src="toad-panic.gif"/>
 <p align="left">
 	<!-- <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/> -->
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=codeSTACKr&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
 </p>
 
-<img src="toad-panic.gif" data-aspect-ratio="1" data-width="100%"/>
-<img src="toad-panic.gif"/>
+![DataSigh's GitHub stats](github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues)
 
 <!--
 website:
