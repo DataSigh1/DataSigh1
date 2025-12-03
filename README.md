@@ -1,7 +1,7 @@
 <p align="left">
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
 </p>
-<span style="font-size: 50px;">|</span>
+<span style="font-size: 500px;">|</span>
 
 ## Contact
 <a href="https://www.github.com/DataSigh1"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&labelColor=505050&link=https%3A%2F%2Fwww.github.com%2FDataSigh1"></a> |
