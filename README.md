@@ -1,11 +1,17 @@
 <img src="toad-panic.gif"/>
 <p align="left">
-	<!-- <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/> -->
-	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=codeSTACKr&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
+	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/>
+	<!-- <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=codeSTACKr&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues"/> -->
 </p>
 
-<!-- [DataSigh's GitHub stats](github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues) -->
-[![DataSigh's GitHub stats](github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1)]
+## Contact
+<a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>&nbsp;
+<a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>
+
+<!-- <a href="https://www.github.com/DataSigh1"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>&nbsp;
+
+<a href="https://www.dev.to/dmnchzl"><img alt="DevCommunity" src="https://img.shields.io/badge/-DevCommunity-0A0A0A?style=social&logo=devdotto"/></a>&nbsp;
+<a href="https://www.medium.com/@dmnchzl"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium"/></a>&nbsp; -->
 
 <!--
 website:
