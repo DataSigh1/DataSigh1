@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td valign="middle">
+    <td valign="bottom">
       <img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues&custom_title=Github%20Stats"/>
     </td>
     <td valign="top">
