@@ -15,12 +15,12 @@
 <a href="https://devforum.roblox.com/u/datasigh/summary"><img alt="Devforum" src="https://img.shields.io/badge/-Devforum-000000?style=social&logo=robloxstudio"/></a>
 
 -------------------
-<details> 
+<!-- <details>  -->
   <summary><h2>my favourite gifs</h2></summary>
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-</details>
+<!-- </details> -->
 
 
 <!--
