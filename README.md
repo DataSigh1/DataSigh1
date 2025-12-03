@@ -31,7 +31,6 @@
       <br/>
       <a href="https://www.roblox.com/users/19574106/profile"><img src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&labelColor=505050"></a>
       <a href="https://devforum.roblox.com/u/datasigh/summary"><img src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&labelColor=505050"></a>
-      <br/>
     </td>
   </tr>
 </table>
