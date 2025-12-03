@@ -8,27 +8,19 @@
   <a href="https://www.github.com/DataSigh1">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-e5e5e5?style=for-the-badge&logo=github&labelColor=505050">
   </a>
-
   <span>|</span>
-
   <a href="https://www.tiktok.com/@datasigh_">
     <img alt="TikTok profile" src="https://img.shields.io/badge/TikTok-e5e5e5?style=for-the-badge&logo=tiktok&labelColor=505050">
   </a>
-
   <span>|</span>
-
   <a href="https://x.com/datasigh_">
     <img alt="X (Twitter) profile" src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&labelColor=505050">
   </a>
-
   <span>|</span>
-
   <a href="https://www.roblox.com/users/19574106/profile">
     <img alt="Roblox profile" src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&labelColor=505050">
   </a>
-
   <span>|</span>
-
   <a href="https://devforum.roblox.com/u/datasigh/summary">
     <img alt="DevForum profile" src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&labelColor=505050">
   </a>
