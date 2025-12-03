@@ -1,4 +1,4 @@
-<p align="left">
+<!-- <p align="left">
 	<img src="https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true&hide_rank=true&number_format=long&hide=stars,issues&custom_title=Github%20Stats"/>
 </p>
 
@@ -15,7 +15,7 @@
   <img src="nailong_dwerk.gif" width="159"/>
   <img src="toad_panic.gif"/>
   <img src="peach_dancing.gif"/>
-</details>
+</details> -->
 
 
 <table>
@@ -31,15 +31,17 @@
       <br/>
       <a href="https://www.roblox.com/users/19574106/profile"><img src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&labelColor=505050"></a>
       <a href="https://devforum.roblox.com/u/datasigh/summary"><img src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&labelColor=505050"></a>
-      <details>
-        <summary><h4 style="display:inline">my favourite gifs</h4></summary>
-        <img src="nailong_dwerk.gif" width="159"/>
-        <img src="toad_panic.gif"/>
-        <img src="peach_dancing.gif"/>
-      </details>
     </td>
   </tr>
 </table>
+
+<details>
+  <summary><h4 style="display:inline">my favourite gifs</h4></summary>
+  <img src="nailong_dwerk.gif" width="159"/>
+  <img src="toad_panic.gif"/>
+  <img src="peach_dancing.gif"/>
+</details>
+
 
 <!-- <div style="background-color:#00ff00"></div>
   <h1 style="color:white">Heading</h1>
