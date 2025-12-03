@@ -1,4 +1,3 @@
-<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <title>Rainbow Header</title>
@@ -50,7 +49,6 @@
 <body>
   <h1>Rainbow Header</h1>
 </body>
-</html>
 
 <!-- ANOTHER VERSION OF THE CONTACT THING: -->
 <!-- ## Contact
