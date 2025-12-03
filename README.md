@@ -3,6 +3,8 @@
   <img src="https://github-readme-stats-ramiros-projects-1d96dc24.vercel.app/api/top-langs/?username=DataSigh1&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
+<img align="left" alt="DataSigh's Github Stats" src="https://github-readme-stats-ramiros-projects-1d96dc24.vercel.app/api?username=DataSigh1&show_icons=true&hide_border=true" />
+
 <!--
 github-readme-stats-ramiros-projects-1d96dc24.vercel.app
 
