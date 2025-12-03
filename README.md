@@ -7,6 +7,7 @@
 
 </p>
 
+![DataSigh's GitHub stats](https://github-readme-stats-brown-phi-57.vercel.app/api?username=DataSigh1&theme=dark&show_icons=true)
 <img src="toad-panic.gif" width="250" />
 
 <picture>
