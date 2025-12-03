@@ -5,7 +5,7 @@
 
 <img src="toad-panic.gif" width="250"/>
 <!-- <img src="toad-panic.gif" width="128"/> -->
-<img src="toad-panic.gif" data-aspect-ratio="1" data-width="100%"/>
+<img src="toad-panic.gif" data-aspect-ratio="0.2" data-width="100%"/>
 
 <!--
 website:
