@@ -8,6 +8,9 @@
 <a href="https://x.com/datasigh_"><img alt="X (Twitter) profile" src="https://img.shields.io/badge/X(Twitter)-e5e5e5?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000&link=https%3A%2F%2Fx.com%2Fdatasigh_"></a>
 <a href="https://www.roblox.com/users/19574106/profile"><img alt="Roblox profile" src="https://img.shields.io/badge/roblox-e5e5e5?style=for-the-badge&logo=roblox&logoColor=fefefe&labelColor=335fff&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"></a>
 <a href="https://devforum.roblox.com/u/datasigh/summary"><img alt="DevForum profile" src="https://img.shields.io/badge/devforum-e5e5e5?style=for-the-badge&logo=robloxstudio&logoColor=fefefe&labelColor=121215&link=https%3A%2F%2Fdevforum.roblox.com%2Fu%2Fdatasigh%2Fsummary"></a>
+
+
+-------------------
 <details> 
   <summary><h4 style="background-color:#43c584">my favourite gifs</h4></summary>
   <img src="nailong_dwerk.gif" width="159"/>
